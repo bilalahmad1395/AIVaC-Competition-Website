@@ -7,9 +7,13 @@ function App() {
       <div className="container">
         <nav className="navbar">
           <img src="nust_logo.jpeg" alt="AIVAC Logo" className="logo" />
+          {/* <h1>AIVaC Competition</h1> */}
+          <h1>AI-Value Creation Competition</h1>
+          <img src="image.jpg" alt="AIVAC Logo" className="logo" />
+          
         </nav>
-        <h1>AIVaC Competition</h1>
-        <p className="subtitle">AI-Value Creation Competition</p>
+        
+        {/* <p className="subtitle">AI-Value Creation Competition</p> */}
         <p><strong>Venue:</strong> NUST-SEECS</p>
         <p><strong>Date:</strong> 28 Sep 2024</p>
         <p><strong>First prize:</strong> Rs. 50,000</p>
