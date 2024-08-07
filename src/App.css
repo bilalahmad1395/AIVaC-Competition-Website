@@ -6,6 +6,20 @@ body {
   padding: 0;
 }
 
+
+.navbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+
+.logo {
+  height: 70px;
+  margin-right: 15px;
+}
+
+
 .container {
   max-width: 800px;
   margin: 50px auto;
@@ -69,4 +83,19 @@ h2 {
 
 .register-button:hover {
   background-color: #0056b3;
+}
+
+
+
+.sponser{
+  text-align: center;
+  color: #ffffff;
+}
+
+.sponserLogo{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  height: 50px;
 }
