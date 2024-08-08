@@ -36,7 +36,7 @@ function App() {
 
       </div>
       <div>
-        <p class="sponser">Sponsered by SiBot</p>
+        <p class="sponser">Sponsored by SiBot</p>
       </div>
 
     </div>
